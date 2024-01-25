@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "/Users/ilangurudev/projects/meeting_notes_ai",
+  "_repo_dir": "/Users/ilangurudev/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Guru Ilangovan",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "ilangurudev@gmail.com",
+  "friendly_name": "Meeting Notes AI",
+  "github_user": "ilangurudev",
+  "license": "MIT",
+  "package_name": "meeting_notes_ai",
+  "project_name": "meeting_notes_ai",
+  "version": "0.0.0"
+}
